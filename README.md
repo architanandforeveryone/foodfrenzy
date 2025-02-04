@@ -38,7 +38,7 @@ Integrated with MySQL for data storage. Ensure reliable and scalable data manage
 
 Include instructions on how to set up and run the application locally. Provide any necessary configuration steps, dependencies, or environment variables.
 
-Clone the repository : $ git clone https://github.com/scanurag/FoodFrenzy-project.git
+
 
 ## Preview
 ![Screenshot 2024-02-19 175043](https://github.com/scanurag/FoodFrenzy/assets/90509642/4cd4af1b-888a-48c1-8895-effad3f9bdea)
